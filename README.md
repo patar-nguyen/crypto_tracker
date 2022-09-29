@@ -17,4 +17,6 @@ Install dependencies with npm install.
 
 List of cryptocurrencies
 ![](https://github.com/patar-nguyen/crypto_tracker/blob/master/src/images/crypto_tracker.png?raw=true)
+
+Searching for a specific cryptocurrency
 ![](https://github.com/patar-nguyen/crypto_tracker/blob/master/src/images/crypto_search.png?raw=true)
