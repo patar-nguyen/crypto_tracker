@@ -15,5 +15,6 @@ Install dependencies with npm install.
 
 ## Screenshots
 
-Clicking on a movie
-![Rick-Roll](https://github.com/patar-nguyen/wumboflix/blob/master/src/images/wumboflix-rickroll.gif?raw=true)
+List of cryptocurrencies
+![](https://github.com/patar-nguyen/crypto_tracker/blob/master/src/images/crypto_tracker.png?raw=true)
+![](https://github.com/patar-nguyen/crypto_tracker/blob/master/src/images/crypto_search.png?raw=true)
